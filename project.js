@@ -2,10 +2,9 @@ function getGreeting(name){
     return "Hi " + name;
 }
 
-// module.exports = getGreeting;
+module.exports = getGreeting;
 
-function createGreeting(f_Name){
+function addName(f_Name,){
     return "buenos dias" + f_Name;
 }
-module.exports = getGreeting;
-module.exports = createGreeting;
+module.export = addName;
