@@ -4,7 +4,7 @@ function getGreeting(name){
 
 module.exports = getGreeting;
 
-function createGreeting(fName){
-    return "buenos dias" + fName;
+function createGreeting(f_Name){
+    return "buenos dias" + f_Name;
 }
 module.exports = createGreeting;
