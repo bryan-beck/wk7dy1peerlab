@@ -4,6 +4,7 @@ function getGreeting(name){
 
 module.exports = getGreeting;
 
-// function addName(fName){
-//     return "Adding " = fName;
-// }
+function createGreeting(fName){
+    return "buenos dias" + fName;
+}
+module.exports = createGreeting;
