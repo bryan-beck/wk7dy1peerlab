@@ -7,4 +7,4 @@ module.exports = getGreeting;
 function addUser(user){
     return "buenos dias" + user;
 }
-module.export = addUser;
+module.exports = addUser;
