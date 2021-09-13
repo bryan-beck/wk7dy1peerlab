@@ -5,5 +5,5 @@ test('can create a basic greeting', () => {
 });
 const getGreeeting = require('./project');
 test('can create a basic greeting',() => {
-  expect(getGreeting('Buenos dias')).toBe("Hi Buenos días");
+  expect(getGreeting('Buenos dias')).toBe("Hi Buenos dias");
 });
