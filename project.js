@@ -5,5 +5,5 @@ function getGreeting(name){
 module.exports = getGreeting;
 
 function addName(fName){
-    return "Adding" = fName;
+    return "Adding " = fName;
 }
