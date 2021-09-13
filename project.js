@@ -4,7 +4,7 @@ function getGreeting(name){
 
 module.exports = getGreeting;
 
-function addName(f_Name,){
-    return "buenos dias" + f_Name;
+function addUser(user){
+    return "buenos dias" + user;
 }
-module.export = addName;
+module.export = addUser;
